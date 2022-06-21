@@ -1,0 +1,128 @@
+Washington Post:
+ID   43: The name Brian Barbosa has an extra space in between the names
+ID  532: The name Brian Sawyer has an extra space in between the names
+ID  405: The name Terrance Kellom has an extra space in between the names
+ID  283: The name Fred Liggett has an extra space in between the names
+ID  581: The name William Russel Smith has an extra space between Russell and Smith
+ID  883: The name Edixon Franco has an extra space between the names
+ID  295: The name Jamison Childress has an extra space between the names
+ID  403: The name Gary Timmie Collins has an extra space between Timmie and Collins
+ID  453: The name Stephen Cunningham has an extra space between the names
+ID  458: The name Dennis Fiel has an extra space between the names
+ID  465: The name David Gaines has an extra space between the names
+ID  467: The name Jonathan Colley has an extra space between the names
+ID  479: The name Jessie Williams has an extra space between the names
+ID  481: The name Garrett Sandeno has an extra space between the names
+ID  535: The name Greg Hartley and an extra space between the names
+ID  542: The name Raymond Phillips has an extra space between the names
+ID  556: The name Charles Marshall has an extra space between the names
+ID  577: The name Alan Bellew has an extra space between the names
+ID  586: The name Clay Alan Lickteig has an extra space between Alan and Lickteig
+ID  650: The name David Wheat Jr. has an extra space between David and Wheat
+ID  678: The name Bryan Keith Day has an extra space between Keith and Day
+ID  693: The name Jeremy Hatch has an extra space between the names
+ID  694: The name David Cook has an extra space between the names
+ID  744: The name Jonathon Pope has an extra space between the names
+ID  791: The name David M. Leon has an extra space between M. and Leon
+ID  820: The name Austin Wilburly Reid has an extra space before Austin and an extra space between Wilburly and Reid
+ID  833: The name Jorge Suarez-Ruiz has an extra space between Jorge and Suarez-Ruiz
+ID  880: The name Robert Christen has an extra space between the names
+ID  893: The name James Dunaway has an extra space between the names
+ID  923: The name Martin Ryans Jr. has an extra space between Martin and Ryans
+ID  935: The name Roger D. Hall has an extra space between D. and Hall
+ID  983: The name David Romanoski has an extra space between the names
+ID  986: The name Michael Johnson has an extra space between the names
+ID 1045: The name Joshua Jozefowicz has an extra space between the names and an extra space after the last name
+ID 1059: The name David Winesett has an extra space between the names
+ID 1077: The name Shirley Weis has an extra space between the names
+ID 1084: The name Nephi Leiataua has an extra space between the names
+ID 1090: The name Michael Thomason has an extra space between the names
+ID 1092: The name Mharloun Verdejo Saycon has an extra space between Verdejo and Saycon
+ID 1107: The name Mark Ramirez has an extra space between the names
+ID 1117: The name Jose Rodriguez has an extra space between the names
+ID 2710: The name Jonathon Daniel Simmons has an extra space between Jonathon and Daniel
+ID 5212: The name Michael A. Jolly has an extra space between Michael and A.
+ID 5697: The name Jacob Emry Mcilveen has an extra space between Jacob and Emry
+ID 7647: The city Wichita Falls has an extra space between Wichita and Falls
+
+
+Mapping Police Violence:  info@campaignzero.org
+
+The name David Alvarado Jr. (8893) is incorrect. The Fatal Encounters ID in the MPV database points to a person named Daniel Alvarado killed at the same place on the same say. The Washington Post database reports the same information for ID: 6952.
+
+Washington Post ID Doesn't Exist:
+
+The Washington Post ID for Michael Lee Gerhart (9420) does not exist in the Washington Post database.
+The Washington Post ID for Steven Emmet Crosby (8927) does not exist in the Washington Post database.
+The Washington Post ID for William Ice (8840) does not exist in the Washington Post database.
+The Washington Post ID for Name withheld by police (8382) does not exist in the Washington Post database.
+The Washington Post ID for Kevin Janson Neal (5272) does not exist in the Washington Post database.
+The Washington Post ID for Jamal Parks (4329) does not exist in the Washington Post database.
+The Washington Post ID for Matthew Blake Richardson (4278) does not exist in the Washington Post database.
+The Washington Post ID for Keelan Charles Murray (4245) does not exist in the Washington Post database.
+The Washington Post ID for Michael Goodale (4028) does not exist in the Washington Post database.
+The Washington Post ID for William Ferguson (3765) does not exist in the Washington Post database.
+The Washington Post ID for Tristan Stearns Conti (3415) does not exist in the Washington Post database.
+The Washington Post ID for Sharon McCleary (5940) does not exist in the Washington Post database.
+The Washington Post ID for Jaden Marsh (5643) does not exist in the Washington Post database.
+The Washington Post ID for Edward Hallinan (5574) does not exist in the Washington Post database.
+The Washington Post ID for Christopher Eric Giles (5491) does not exist in the Washington Post database.
+The Washington Post ID for Roy Ogden (8086) does not exist in the Washington Post database.
+The Washington Post ID for Brian Elkins (7641) does not exist in the Washington Post database.
+The Washington Post ID for Kirklan Conley (7631) does not exist in the Washington Post database.
+The Washington Post ID for Brianna Nicole Post (6418) does not exist in the Washington Post database.
+The Washington Post ID for Bradley Barboza (6214) does not exist in the Washington Post database.
+
+
+Incorrect Washington Post ID:
+
+The Washington Post ID for Barry Ross (9593) is incorrect. It is recorded as 7197 but the Washington Post has him labelled as 7294.
+The Washington Post ID for Oscar Najera (9302) is incorrect. The Washington Post has him labelled as 7003.
+The Washington Post ID for Perry Boyd (9279) is incorrect. The Washington Post has him saved as 6958 with the name Perry E. Boyd
+The Washington Post ID for Terrance Maurice Parker (9151) is incorrect. The recorded WaPo ID (6920) belongs to Clay Willingham (9236). The correct ID is 6820.
+The Washington Post ID for Matthew Harry (9183) is incorrect. The Washington Post has him saved as 6824.
+The Washington Post ID for Andre Maurice Hill (9028) is incorrect. The Washington Post has him saved as 6434.
+The Washington Post ID for Michael Anthony Harris (8405) is incorrect. The Washington Post has him saved as 6128.
+The Washington Post ID for Bruce Diehl (8863) is incorrect. The Washington Post has him saved as 6687.
+The Washington Post ID for James Zambrotto (8764) is incorrect. The Washington Post has him saved as 6734.
+The Washington Post ID for Michael Anthony Harris (8405) is incorrect. The Washington Post has him saved as 6128.
+The Washington Post ID for Damian Evans (8402) is incorrect. The Washington Post has him saved as 6125.
+The Washington Post ID for Joey Middleton (8397) is incorrect. The Washington Post has that ID assigned to Damian Lamar Daniels (8398). The correct id is 6114 where he is saved as Joseph R. Middleton.
+The Washington Post ID for Marco Reyes (8271) is incorrect. The Washington Post has him saved as 6076.
+The Washington Post ID for Wade Protus Phillips (8240) is incorrect. The Washington Post has him saved as 6168.
+The Washington Post ID for David Lee Jacobs (8203) is incorrect. The Washington Post has him saved as 5930.
+The Washington Post ID for Nicholas Chavez (7998) is incorrect. The Washington post has him saved as 5775.
+The Washington Post ID for Benjamin Diaz (7453) is incorrect. The Washington Post has him saved as 5191.
+The Washington Post ID for Roderick McDaniel (6412) is incorrect. The Washington Post has him saved as 4237.
+
+
+Incorrect Washington Post ID with no Matching ID:
+The Washington Post ID for Gary Brown (8789) is incorrect and the Washington Post does not have a record matching Brown's description. The current Washington Post ID is 6703, which belongs to Benjamin Price Cotton (8792).
+The Washington Post ID for Jose Gallegos (7451) is incorrect and the Washington Post does not have a record matching Gallegos's description.
+The Washington Post ID for Elizabeth Michele Tollison (5953) is incorrect and the Washington Post does not have a record matching her description. The current ID is saved for the man killed in the same incident, Guillermo Perez (5952).
+The Washington Post ID for Shelby Comer (5378) is incorrect and the Washington Post does not have a record matching Comer's description.
+
+
+Incorrect Fatal Encounters ID:
+
+The Fatal Encounters ID for Gloria Marie (9602) is wrong, it's 31021, while the MPV database says 31012, which belongs to Christian Smith (9597).
+The Fatal Encounters ID for Name withheld by the Police (9487) is incorrect. The assigned FE ID belongs to Terrence Bey (9485). The correct ID for the unnamed man is 30798.
+The Fatal Encounters ID for Leroy Snead (9808) is incorrect. The assigned FE ID belongs to Derek J. Hayden (8857). The correct ID for Snead is 29769.
+The Fatal Encounters ID for Adam Bruce Connors (8861) is incorrect. The assigned FE ID belongs to Dwight Brown (8811). The correct ID for Snead is 29752.
+The Fatal Encounters ID for Name withheld by police (8865) is incorrect. The assigned FE ID belongs to Daverion Kinard (8866). The correct ID for the nameless man is 29661.
+The Fatal Encounters ID for Richard Romero (8523) is incorrect. The assigned FE ID belongs to Name withheld by police (8527). The correct ID is 28973.
+The Fatal Encounters ID for Anthony Michael Legato (8495) is incorrect. The assigned FE ID belongs to Tyran Dent (8488). The correct ID is 28997.
+The Fatal Encounters ID for Justin Caldwell (8490) is incorrect. The assigned FE ID belongs to Kalun Purucker (8493). The correct ID is 28919.
+The Fatal Encounters ID for John Hare (8485) is incorrect. The assigned FE ID belongs to Shayne Allen Sutherland (8489). The correct ID is 28915, with FE reporting the name as withheld by police.
+The Fatal Encounters ID for Elizabeth Michele Tollison (5953) is incorrect. The assigned FE ID belongs to Guillermo Perez (5952). The correct ID is 24592.
+
+
+Fatal Encounters ID doesn't exist:
+
+The Fatal Encounters ID for Name withheld by police (8243) is incorrect. The assigned FE ID belongs to Joshua Van Machado (8956). There is no ID matching the description for the given record in the Fatal Encounters database.
+
+
+Special:
+
+The Washington Post ID for Name withheld by the police (9533) doesn't exist in the Washington Post database. The recorded ID is 7133. The only record with a matching city, gender, and date is Gray Bell, and his ID is 7132. However, Gray Bell is already covered in the database as 'Grey Bell', ID: 9536
+The Washington Post ID for Christina Chavez (5393) is incorrect but may exist. There is a record in the WaPo database at ID: 3161 of a man named Christian Chavez, killed 11/27/2017, but has the same age, race, and place of death as Christina. However, other data varies. However, the MPV database has a record matching WaPo's at 5308.

@@ -1,0 +1,13 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+venv
+winvenv
+
+outputs
+r_scripts
+
+.env
+
+database/updates.txt
+database/police_brutality/*.log
